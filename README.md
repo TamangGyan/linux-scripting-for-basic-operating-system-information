@@ -1,0 +1,1 @@
+# linux-scripting-for-basic-operating-system-information
